@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  .loggo{
+    width: 30px;
+    padding: 0;
+    margin: 0;
+  }
+  .carousel-item img {
+    width:100% ;
+    height: 550px;
+  }
+  .card img{
+    
+    margin-right: 5px;
+  }
+
+  .crdMdls img{
+   width: 250px;
+   height: 380px;
+   border-radius: 30px;
+  }
+  .wildBrd{
+    width: 160px;
+  }
+  .dolphin{
+    width: 160px;
+  }
+  .ftr-logo img{
+    width: 420px;
+  }
+  
